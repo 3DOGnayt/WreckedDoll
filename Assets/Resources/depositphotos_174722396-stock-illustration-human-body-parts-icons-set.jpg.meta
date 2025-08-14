@@ -78,7 +78,7 @@ TextureImporter:
       213: 2388353781373369599
     second: depositphotos_174722396-stock-illustration-human-body-parts-icons-set_24
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -95,10 +95,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -137,6 +139,8 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -148,6 +152,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -160,6 +165,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -172,6 +178,20 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -712,9 +732,34 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      depositphotos_174722396-stock-illustration-human-body-parts-icons-set_0: 3318723363742953659
+      depositphotos_174722396-stock-illustration-human-body-parts-icons-set_1: 6307980710606986302
+      depositphotos_174722396-stock-illustration-human-body-parts-icons-set_10: -5074439571516307366
+      depositphotos_174722396-stock-illustration-human-body-parts-icons-set_11: 5586351595648393409
+      depositphotos_174722396-stock-illustration-human-body-parts-icons-set_12: -8791971776194640391
+      depositphotos_174722396-stock-illustration-human-body-parts-icons-set_13: -3292161283769248990
+      depositphotos_174722396-stock-illustration-human-body-parts-icons-set_14: -5723403461292589253
+      depositphotos_174722396-stock-illustration-human-body-parts-icons-set_15: -7027647442178587225
+      depositphotos_174722396-stock-illustration-human-body-parts-icons-set_16: 2083359393973378022
+      depositphotos_174722396-stock-illustration-human-body-parts-icons-set_17: -4066497362048606954
+      depositphotos_174722396-stock-illustration-human-body-parts-icons-set_18: 3637419859738071471
+      depositphotos_174722396-stock-illustration-human-body-parts-icons-set_19: -8618019905274857118
+      depositphotos_174722396-stock-illustration-human-body-parts-icons-set_2: 5346703633872604741
+      depositphotos_174722396-stock-illustration-human-body-parts-icons-set_20: -4891089071620731751
+      depositphotos_174722396-stock-illustration-human-body-parts-icons-set_21: -3204620019318000108
+      depositphotos_174722396-stock-illustration-human-body-parts-icons-set_22: -2139012632519270
+      depositphotos_174722396-stock-illustration-human-body-parts-icons-set_23: -5376119601896008803
+      depositphotos_174722396-stock-illustration-human-body-parts-icons-set_24: 2388353781373369599
+      depositphotos_174722396-stock-illustration-human-body-parts-icons-set_3: -693996415991496900
+      depositphotos_174722396-stock-illustration-human-body-parts-icons-set_4: 5667624613172820187
+      depositphotos_174722396-stock-illustration-human-body-parts-icons-set_5: 8913647773334912431
+      depositphotos_174722396-stock-illustration-human-body-parts-icons-set_6: -3943822069753071561
+      depositphotos_174722396-stock-illustration-human-body-parts-icons-set_7: -1598052273670416025
+      depositphotos_174722396-stock-illustration-human-body-parts-icons-set_8: -4856907001094167794
+      depositphotos_174722396-stock-illustration-human-body-parts-icons-set_9: -2134922269665030542
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
